@@ -2,8 +2,8 @@
 
 I'm [Gourav Sharma], a passionate ["Cyber Security Engineer"]. I love crafting solutions, contributing to open source, and exploring the world of technology.  
 
-- 🌱 **Currently Learning:** ["CPTS" , "Web Pentesting"]  
-- 🔭 **Working On:** ["Open source contributions", "Personal projects", "A portfolio website"]  
+- 🌱 **Currently Learning:** ["Web Pentesting"]  
+- 🔭 **Working On:** ["CPTS", "Personal projects", "A portfolio website"]  
 - 💬 **Ask Me About:** ["CTFs" , "Pentesting" , "Hacking"]   
 
 📫 **How to reach me:**  
