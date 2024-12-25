@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm [Gourav Sharma], a passionate ["Cyber Security Engineer"]. I love crafting solutions, contributing to open source, and exploring the world of technology.  
+
+- 🌱 **Currently Learning:** ["CPTS" , "Web Pentesting"]  
+- 🔭 **Working On:** ["Open source contributions", "Personal projects", "A portfolio website"]  
+- 💬 **Ask Me About:** ["CTFs" , "Pentesting" , "Hacking"]   
+
+📫 **How to reach me:**  
+- [LinkedIn](https://linkedin.com/in/optional)  
+- [Twitter](#)  
+- [Personal Website](#)  
 <!--
 **optional1337/optional1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
